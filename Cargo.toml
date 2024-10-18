@@ -1,0 +1,6 @@
+[package]
+name = "timscompress"
+version = "0.1.0"
+edition = "2021"
+description = "A crate to compress Bruker timsTOF data"
+license = "Apache-2.0"
